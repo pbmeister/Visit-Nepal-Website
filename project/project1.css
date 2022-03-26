@@ -1,0 +1,119 @@
+body{
+    background-image : linear-gradient(rgb(116, 214, 241), rgb(171, 244, 248))
+}
+#navBar{
+   display: inline;
+   padding-right: 20px;
+   font-size: 20px;
+}
+
+.navBar{
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(184, 184, 184) , rgb(52, 52, 52),  rgb(184, 184, 184));
+    padding-top: 8px;
+    padding-bottom: 9px;
+    border-radius: 25px;
+    font-family: 'Exo 2', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.header{
+    text-align: right;
+    color: rgb(0, 0, 62);
+    font-family: 'Odibee Sans', cursive;
+    padding-right: 30px;
+    padding-bottom: 70px;
+    font-size: 50px;
+}
+
+.destinations{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(0, 0, 62);
+    text-align: center;
+    padding-left: 15px;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding-top: 12px;
+    
+}
+
+.thuloDiv{
+   
+    box-sizing: border-box;
+}
+
+.p1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    text-align: left;
+    float: left; 
+    padding: 1%;
+    width: 30%;
+}
+
+#clearDiv{
+    clear: both;
+}
+#p12{
+    padding-left: 3%;
+}
+
+.pic{
+    height: 250px;
+}
+
+form{
+    text-align: right;
+    padding-right: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    margin-right: 98px;
+}
+
+.logIn{
+    text-align: right;
+    padding-right: 228px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 600px;
+    font-size: 30px;
+}
+
+input{
+    font-size: 20px;
+    text-align: center;
+    border-radius: 17px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+#button{
+    margin-right: 98px;
+    background-color: rgb(218, 218, 218);
+    border-radius: 100px;
+    border-style: solid ;
+    cursor: pointer;
+    font-size: 15px;
+    height: 34px;
+    width: 68px;
+    font-family: 'Raleway', sans-serif;
+
+   
+   
+}
+#buttonsignup{
+    background-color: rgb(218, 218, 218);
+    border-radius: 100px;
+    border-style: solid ;
+    cursor: pointer;
+    font-size: 15px;
+    height: 34px;
+    width: 78px;
+    font-family: 'Raleway', sans-serif;
+}
